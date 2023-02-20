@@ -24,7 +24,7 @@ My research interest includes intelligent dialog systems especially multimodal d
 # Milestones
 - *2022.09*: Welcome to RUC! Hi Prof. Song!
 
-- *2022.07*: I finally submitted my first to-some-extent-high-level paper on TNNLS, an SCI tier-1 journal!
+- *2022.07*: I finally submitted my first to-some-extent-high-level paper on Knowledge Based Systems, an SCI tier-1 journal!
 
 - *2021.12*: My first paper were accepted as oral presentation (An EI indexed conference, though)!
 
