@@ -17,14 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there! This is the homepage of Albert Wenhui Tan, I'm a Ph.D. student in Gaoling School of Artificial Intelligence, Renmin University of China.
+Hi there! This is the homepage of Albert Wenhui Tan. I'm a direct Ph.D. student in Gaoling School of Artificial Intelligence, Renmin University of China.
 
-My research interest includes intelligent dialog systems especially multimodal dialogue. More detail find our group homepage: [RUC-AIMind](https://ruc-aimind.github.io/)
+My research interest mainly falls on multimodal dialogue. More detail please find our group homepage: [RUC-AIMind](https://ruc-aimind.github.io/)
 
 # Milestones
 - *2022.09*: Welcome to RUC! Hi Prof. Song!
 
-- *2022.07*: I finally submitted my first to-some-extent-high-level paper on Knowledge Based Systems, an SCI tier-1 journal!
+- *2022.07*: I finally submitted my first to-some-extent-high-level paper on *Knowledge Based Systems*, an SCI tier-1 journal!
 
 - *2021.12*: My first paper were accepted as oral presentation (An EI indexed conference, though)!
 
@@ -50,9 +50,9 @@ My research interest includes intelligent dialog systems especially multimodal d
 
 [//]: # (</div>)
 
-- Exploring attention mechanism for graph similarity learning, **Wenhui Tan**, Xin Gao, Guangqi Wen, Peng Cao∗, Jinzhu Yang, Weiping Li, Osmar R. Zaiane, TNNLS (Under review...)
+- Exploring attention mechanism for graph similarity learning, **Wenhui Tan**, Xin Gao, Guangqi Wen, Peng Cao∗, Jinzhu Yang, Weiping Li, Osmar R. Zaiane, *Knowledge Based Systems (revision)*
 
-- [DGE-GSIM: A multi-task dual graph embedding learning for graph similarity computation](https://dl.acm.org/doi/abs/10.1145/3523150.3523157), **Wenhui Tan**, Peng Cao*, Zhiyong Jin, Futao Luo, Guangqi Wen , Weiping Li, ICMLSC 2022
+- [DGE-GSIM: A multi-task dual graph embedding learning for graph similarity computation](https://dl.acm.org/doi/abs/10.1145/3523150.3523157), **Wenhui Tan**, Peng Cao*, Zhiyong Jin, Futao Luo, Guangqi Wen , Weiping Li, *ICMLSC'2022*
 
 [//]: # (# 🎖 Honors and Awards)
 
