@@ -19,9 +19,11 @@ redirect_from:
 
 Hi there! This is the homepage of Albert Wenhui Tan. I'm a direct Ph.D. student in Gaoling School of Artificial Intelligence, Renmin University of China.
 
-My research interest mainly falls on multimodal dialogue. More detail please find our group homepage: [RUC-AIMind](https://ruc-aimind.github.io/)
+My research interest mainly falls in foundation models for robotics and multimodal dialogue. More detail please find our group homepage: [RUC-AIMind](https://ruc-aimind.github.io/)
 
 # Milestones
+- *2023.03* First internship in MSRA!
+
 - *2022.09*: Welcome to RUC! Hi Prof. Song!
 
 - *2022.07*: I finally submitted my first to-some-extent-high-level paper on *Knowledge Based Systems*, an SCI tier-1 journal!
@@ -71,6 +73,7 @@ My research interest mainly falls on multimodal dialogue. More detail please fin
 [//]: # (- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]]&#40;https://github.com/&#41;)
 
 [//]: # ()
-[//]: # (# 💻 Internships)
+# 💻 Internships
+- 2023.3 - Now: Microsoft Research Asia, Multi-Modal Computation Group.
 
 [//]: # (- *2019.05 - 2020.02*, [Lorem]&#40;https://github.com/&#41;, China.)
