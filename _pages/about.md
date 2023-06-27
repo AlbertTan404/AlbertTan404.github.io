@@ -19,7 +19,7 @@ redirect_from:
 
 Hi there! This is the homepage of Albert Wenhui Tan. I'm a direct Ph.D. student in Gaoling School of Artificial Intelligence, Renmin University of China.
 
-My research interest mainly falls in foundation models for robotics and multimodal dialogue. More detail please find our group homepage: [RUC-AIMind](https://ruc-aimind.github.io/)
+My research interest mainly falls in robotics and multimodal. More detail please find our group homepage: [RUC-AIMind](https://ruc-aimind.github.io/)
 
 # Milestones
 - *2023.03* First internship in MSRA!
@@ -34,27 +34,13 @@ My research interest mainly falls in foundation models for robotics and multimod
 
 # 📝 Publications 
 
-[//]: # (<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>)
+- [Pave the Way to Grasp Anything: Transferring Foundation Models for Universal Pick-Place Robots](https://arxiv.org/abs/2306.05716) Jiange Yang\*, **Wenhui Tan\***, Chuhao Jin\*, Bei Liu, Jianlong Fu, Ruihua Song, Limin Wang, *arXiv 2306*
 
-[//]: # (<div class='paper-box-text' markdown="1">)
-
-[//]: # ()
-[//]: # ([Deep Residual Learning for Image Recognition]&#40;https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf&#41;)
-
-[//]: # ()
-[//]: # (**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun)
-
-[//]: # ([**Project**]&#40;https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC&#41; <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>)
-
-[//]: # (- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
-
-[//]: # (</div>)
-
-[//]: # (</div>)
+- [AlphaBlock: Embodied Finetuning for Vision-Language Reasoning in Robot Manipulation](https://arxiv.org/abs/2305.18898) Chuhao Jin\*, **Wenhui Tan\***, Jiange Yang\*, Bei Liu, Ruihua Song, Limin Wang, Jianlong Fu, *arXiv 2305*
 
 - Exploring attention mechanism for graph similarity learning, **Wenhui Tan**, Xin Gao, Guangqi Wen, Peng Cao∗, Jinzhu Yang, Weiping Li, Osmar R. Zaiane, *Knowledge Based Systems (revision)*
 
-- [DGE-GSIM: A multi-task dual graph embedding learning for graph similarity computation](https://dl.acm.org/doi/abs/10.1145/3523150.3523157), **Wenhui Tan**, Peng Cao*, Zhiyong Jin, Futao Luo, Guangqi Wen , Weiping Li, *ICMLSC'2022*
+- [DGE-GSIM: A multi-task dual graph embedding learning for graph similarity computation](https://dl.acm.org/doi/abs/10.1145/3523150.3523157), **Wenhui Tan**, Peng Cao, Zhiyong Jin, Futao Luo, Guangqi Wen , Weiping Li, *ICMLSC'2022*
 
 [//]: # (# 🎖 Honors and Awards)
 
