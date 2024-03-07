@@ -38,7 +38,7 @@ My research interest mainly falls in robotics and multimodal. More detail please
 
 - [AlphaBlock: Embodied Finetuning for Vision-Language Reasoning in Robot Manipulation](https://arxiv.org/abs/2305.18898) Chuhao Jin\*, **Wenhui Tan\***, Jiange Yang\*, Bei Liu, Ruihua Song, Limin Wang, Jianlong Fu, *arXiv 2305*
 
-- Exploring attention mechanism for graph similarity learning, **Wenhui Tan**, Xin Gao, Guangqi Wen, Peng Cao∗, Jinzhu Yang, Weiping Li, Osmar R. Zaiane, *Knowledge Based Systems (revision)*
+- [Exploring attention mechanism for graph similarity learning](https://www.sciencedirect.com/science/article/abs/pii/S0950705123004896), **Wenhui Tan**, Xin Gao, Guangqi Wen, Peng Cao∗, Jinzhu Yang, Weiping Li, Osmar R. Zaiane, *Knowledge Based Systems (revision)*
 
 - [DGE-GSIM: A multi-task dual graph embedding learning for graph similarity computation](https://dl.acm.org/doi/abs/10.1145/3523150.3523157), **Wenhui Tan**, Peng Cao, Zhiyong Jin, Futao Luo, Guangqi Wen , Weiping Li, *ICMLSC'2022*
 
@@ -60,6 +60,6 @@ My research interest mainly falls in robotics and multimodal. More detail please
 
 [//]: # ()
 # 💻 Internships
-- 2023.3 - Now: Microsoft Research Asia, Multi-Modal Computation Group.
+- 2023.3 - 2024.1: Microsoft Research Asia, Multi-Modal Computation Group.
 
 [//]: # (- *2019.05 - 2020.02*, [Lorem]&#40;https://github.com/&#41;, China.)
