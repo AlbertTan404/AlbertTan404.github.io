@@ -19,18 +19,18 @@ redirect_from:
 
 Hi there! This is the homepage of Albert Wenhui Tan. I'm a direct Ph.D. student in Gaoling School of Artificial Intelligence, Renmin University of China.
 
-My research interest mainly falls in robotics and multimodal. More detail please find our group homepage: [RUC-AIMind](https://ruc-aimind.github.io/)
+My research interest mainly falls in robotics, embodied AI and multi-modality. More detail please find our group homepage: [RUC-AIMind](https://ruc-aimind.github.io/)
 
 # Milestones
 - *2023.03* I got my first internship in MSRA under the supervision of Bei Liu and Jianlong Fu.
 
 - *2022.09*: I started pursuing a PhD at Gaoling School of Artificial Intelligence, Renmin University of China, under the supervision of Professor Ruihua Song.
 
-- *2022.07*: I finally submitted my first to-some-extent-high-level paper on *Knowledge Based Systems*, an SCI tier-1 journal!
+- *2022.07*: I finally submitted my first to-some-extent-high-level paper on *Knowledge Based Systems* (SCI Q1).
 
-- *2021.12*: My first paper were accepted as oral presentation (An EI indexed conference though)!
+- *2021.12*: My first paper was accepted as oral presentation (in an EI conference though).
 
-- *2021.06*: New to Machine Leaning. Thanks to professor Peng Cao at Northeastern University!
+- *2021.06*: New to Machine Leaning. Thanks to professor Peng Cao at Northeastern University.
 
 # 📝 Publications 
 
@@ -62,6 +62,5 @@ My research interest mainly falls in robotics and multimodal. More detail please
 
 [//]: # ()
 # 💻 Internships
-- 2023.3 - 2024.1: Microsoft Research Asia, Multi-Modal Computation Group.
+- 2023.3 - 2024.1: Microsoft Research Asia, Multi-modal Computation Group. Supervisor: Jianlong Fu.
 
-[//]: # (- *2019.05 - 2020.02*, [Lorem]&#40;https://github.com/&#41;, China.)
