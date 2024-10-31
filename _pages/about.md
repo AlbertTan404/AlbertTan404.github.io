@@ -34,7 +34,7 @@ My research interest mainly falls in robotics, embodied AI and multi-modality. M
 
 - [Multi-task Manipulation Policy Modeling with Visuomotor Latent Diffusion](https://arxiv.org/abs/2403.07312) **Wenhui Tan**, Bei Liu, Junbo Zhang, Ruihua Song, Jianlong Fu, *MultiMedia Modeling 2025*
 
-- [Pave the Way to Grasp Anything: Transferring Foundation Models for Universal Pick-Place Robots](https://arxiv.org/abs/2306.05716) Jiange Yang\*, **Wenhui Tan**\*, Chuhao Jin\*, Bei Liu, Jianlong Fu, Ruihua Song, Limin Wang, *arXiv 2306*
+- [Transferring Foundation Models for Generalizable Robotic Manipulation](https://arxiv.org/abs/2306.05716) Jiange Yang\*, **Wenhui Tan**\*, Chuhao Jin\*, Bei Liu, Jianlong Fu, Ruihua Song, Limin Wang, *WACV 2025*
 
 - [AlphaBlock: Embodied Finetuning for Vision-Language Reasoning in Robot Manipulation](https://arxiv.org/abs/2305.18898) Chuhao Jin\*, **Wenhui Tan\***, Jiange Yang\*, Bei Liu, Ruihua Song, Limin Wang, Jianlong Fu, *arXiv 2305*
 
