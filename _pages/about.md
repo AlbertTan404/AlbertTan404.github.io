@@ -32,7 +32,7 @@ My research interest mainly falls in robotics, embodied AI and multi-modality. M
 
 # 📝 Publications 
 
-- [Multi-task Manipulation Policy Modeling with Visuomotor Latent Diffusion](https://arxiv.org/abs/2403.07312) **Wenhui Tan**, Bei Liu, Junbo Zhang, Ruihua Song, Jianlong Fu, *MultiMedia Modeling 2025*
+- [Multi-task Manipulation Policy Modeling with Visuomotor Latent Diffusion](https://arxiv.org/abs/2403.07312) **Wenhui Tan**, Bei Liu, Junbo Zhang, Ruihua Song, Jianlong Fu, *MultiMedia Modeling 2025 BEST PAPER!*
 
 - [Transferring Foundation Models for Generalizable Robotic Manipulation](https://arxiv.org/abs/2306.05716) Jiange Yang\*, **Wenhui Tan**\*, Chuhao Jin\*, Bei Liu, Jianlong Fu, Ruihua Song, Limin Wang, *WACV 2025*
 
@@ -42,11 +42,10 @@ My research interest mainly falls in robotics, embodied AI and multi-modality. M
 
 - [DGE-GSIM: A multi-task dual graph embedding learning for graph similarity computation](https://dl.acm.org/doi/abs/10.1145/3523150.3523157), **Wenhui Tan**, Peng Cao, Zhiyong Jin, Futao Luo, Guangqi Wen , Weiping Li, *ICMLSC'2022 (Oral)*
 
-[//]: # (# 🎖 Honors and Awards)
+# 🎖 Honors and Awards
 
-[//]: # (- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
+*2025* Multimedia Modeling 2025 Best Paper
 
-[//]: # (- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
 
 # 📖 Educations
 - Ph.D. *2022.09 - 2027.06 (expected)*, Renmin University of China, Artificial Intelligence
