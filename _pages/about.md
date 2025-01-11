@@ -26,7 +26,7 @@ My research interest mainly falls in robotics, embodied AI and multi-modality. M
 
 - *2022.09*: I started pursuing a PhD at Gaoling School of Artificial Intelligence, Renmin University of China, under the supervision of Professor Ruihua Song.
 
-- *2021.12*: My first paper was accepted as oral presentation (in an EI conference though).
+- *2021.12*: My first paper was accepted as oral presentation (an EI conference though).
 
 - *2021.06*: New to Machine Leaning. Thanks to professor Peng Cao at Northeastern University.
 
@@ -44,7 +44,7 @@ My research interest mainly falls in robotics, embodied AI and multi-modality. M
 
 # 🎖 Honors and Awards
 
-*2025* Multimedia Modeling 2025 Best Paper
+- *2025* Multimedia Modeling 2025 Best Paper
 
 
 # 📖 Educations
