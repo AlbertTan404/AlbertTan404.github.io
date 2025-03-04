@@ -32,15 +32,17 @@ My research interest mainly falls in robotics, embodied AI and multi-modality. M
 
 # 📝 Publications 
 
+- [Think Then React: Towards Unconstrained Action-to-Reaction Motion Generation](https://openreview.net/pdf?id=UxzKcIZedp) **Wenhui Tan**, Boyuan Li, Chuhao Jin, Wenbing Huang, Xiting Wang, Ruihua Song *ICLR 2025*
+
 - [Multi-task Manipulation Policy Modeling with Visuomotor Latent Diffusion](https://arxiv.org/abs/2403.07312) **Wenhui Tan**, Bei Liu, Junbo Zhang, Ruihua Song, Jianlong Fu, *MultiMedia Modeling 2025 BEST PAPER!*
 
-- [Transferring Foundation Models for Generalizable Robotic Manipulation](https://arxiv.org/abs/2306.05716) Jiange Yang\*, **Wenhui Tan**\*, Chuhao Jin\*, Bei Liu, Jianlong Fu, Ruihua Song, Limin Wang, *WACV 2025*
+- [Transferring Foundation Models for Generalizable Robotic Manipulation](https://arxiv.org/abs/2306.05716) Jiange Yang\*, **Wenhui Tan**\*, Chuhao Jin\*, Bei Liu, Jianlong Fu, Ruihua Song, Limin Wang, *WACV 2025 Oral*
 
 - [AlphaBlock: Embodied Finetuning for Vision-Language Reasoning in Robot Manipulation](https://arxiv.org/abs/2305.18898) Chuhao Jin\*, **Wenhui Tan\***, Jiange Yang\*, Bei Liu, Ruihua Song, Limin Wang, Jianlong Fu, *arXiv 2305*
 
 - [Exploring attention mechanism for graph similarity learning](https://www.sciencedirect.com/science/article/abs/pii/S0950705123004896), **Wenhui Tan**, Xin Gao, Guangqi Wen, Peng Cao∗, Jinzhu Yang, Weiping Li, Osmar R. Zaiane, *Knowledge Based Systems*
 
-- [DGE-GSIM: A multi-task dual graph embedding learning for graph similarity computation](https://dl.acm.org/doi/abs/10.1145/3523150.3523157), **Wenhui Tan**, Peng Cao, Zhiyong Jin, Futao Luo, Guangqi Wen , Weiping Li, *ICMLSC'2022 (Oral)*
+- [DGE-GSIM: A multi-task dual graph embedding learning for graph similarity computation](https://dl.acm.org/doi/abs/10.1145/3523150.3523157), **Wenhui Tan**, Peng Cao, Zhiyong Jin, Futao Luo, Guangqi Wen , Weiping Li, *ICMLSC'2022 Oral*
 
 # 🎖 Honors and Awards
 
